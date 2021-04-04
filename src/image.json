@@ -1,0 +1,52 @@
+[
+    {
+        "id": "01",
+        "name": "Tech1",
+        "url": "https://www.investopedia.com/thmb/55VuXJqlxx1ugqt2nQrOz9dLN6Q=/2120x1192/smart/filters:no_upscale()/GettyImages-1159017873-328f614e43004e978b09575a5315a55b.jpg"
+    },
+    {
+        "id": "02",
+        "name": "Tech2",
+        "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201810/stockvault-person-studying-and-learning---knowledge-concept178241_0.jpeg?yCXmhi7e2ARwUtzHHlvtcrgETnDgFwCK"
+    },
+    {
+        "id": "03",
+        "name": "Tech3",
+        "url": "https://humanengineers.com/wp-content/uploads/2017/05/future_of_work.jpeg-600x314.jpg"
+    },
+    {
+        "id": "04",
+        "name": "Tech4",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn9LAdaCSS0T_2TexPmeWwKBezNBpIVOTAu2bdr-so22IPb3cTMeUbsy6DT34N7BihI4Z8vY9g9K0&usqp=CAU"
+    },
+    {
+        "id": "05",
+        "name": "Tech5",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTduHezp7tforigR2z_tUZl3WnAJbabWmqXeODkdPVaZWTcSPUkWGAvPv3Noboeb_mUSEzvlkoF7wg&usqp=CAU"
+    },
+    {
+        "id": "06",
+        "name": "Tech6",
+        "url": "https://www.goodworklabs.com/wp-content/uploads/2020/06/Tech-Talent.jpg"
+    },
+    {
+        "id": "07",
+        "name": "Tech7",
+        "url": "https://www.irishtimes.com/polopoly_fs/1.3181624.1502298627!/image/image.jpg_gen/derivatives/box_620_330/image.jpg"
+    },
+    {
+        "id": "08",
+        "name": "Tech8",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtoyM2kEsflRR1GxEvHpWCxzSqoHQnMH2oRziYlhkcPD5UuMoUu8bVeHi0iNpoCwKoOxdu2eX-fkw&usqp=CAU"
+    },
+    {
+        "id": "09",
+        "name": "Tech9",
+        "url": "https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1559800569/1559800567.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Tech10",
+        "url": "https://www.jobberman.com/blog/wp-content/uploads/sites/8/2019/11/Jobberman_Talent__sourcing__strategy_FB.png"
+    }
+]
