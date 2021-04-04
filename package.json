@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Pradeep712.github.io/Project",
+  "homepage": "https://github.com/Pradeep712/Project",
   "name": "Project",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-  "deploy": "Project -d build",
+    "deploy": "Project -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
